@@ -26,11 +26,8 @@ The dashboard provides insights into sales trends, popular pizza categories, rev
 ---
 
 ##  Dashboard Preview
-Here’s a quick look at the dashboard:
+Here’s a quick look at the dashboard: https://1drv.ms/u/c/db5906d2e329e778/EefvOfDpxL1LilRlnMI5dHMBhFEfAIZ43fGxmnWmavC6FQ?e=rPllLJ 
 
-![Dashboard Snapshot](pizza_proj_snap1.png)
-
-*(More snapshots are available in the repository)*
 
 ---
 
@@ -41,10 +38,6 @@ Here’s a quick look at the dashboard:
 
 ---
 
-## 🔗 (Optional) Live Dashboard Link
-*(Add if you published it to Power BI Service — otherwise remove this section)*
-
----
 
 ##  Author
 **Sehr Qureshi**  
